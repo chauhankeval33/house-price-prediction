@@ -7,11 +7,11 @@ The project uses **Streamlit for frontend UI** and **FastAPI as backend API** se
 
 ## 🚀 Live Demo
 
-- 🌐 Streamlit App: https://your-streamlit-link  
+- 🌐 Streamlit App: [https://your-streamlit-link  ](http://10.222.113.43:8501)
 - ⚡ FastAPI API Docs: https://your-api-link/docs  
 
 ---
-
+  
 ## 🧠 Project Overview
 
 This project predicts house prices using a trained machine learning model.
