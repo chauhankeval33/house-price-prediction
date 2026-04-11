@@ -62,7 +62,7 @@ README.md
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://github.com/chauhankeval33/house-price-prediction.git
 cd house-price-prediction
 
 ### 2. Install dependencies
